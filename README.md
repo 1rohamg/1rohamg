@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm rohamg</h1>
-<h3 align="center">Who I am ?</h3>
+<h3 align="center">A Tech enjoyer</h3>
 
-- 🌱 I’m currently learning **JS , Python , css frameworks**
+- 🌱 I’m currently learning **JS , Python**
+
+- 👨‍💻 All of my projects are available at [https://github.com/1rohamg?tab=repositories](https://github.com/1rohamg?tab=repositories)
 
 - 📫 How to reach me **rohamg30@gmail.com**
 
 - ⚡ Fun fact **I hate peoples from arak 🦝**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
