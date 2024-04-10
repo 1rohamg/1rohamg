@@ -8,8 +8,6 @@
 - 📫 How to reach me **rohamg30@gmail.com**
 
 - ⚡ Fun fact **I hate peoples from arak 🦝**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
