@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JS , Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/1rohamg?tab=repositories](https://github.com/1rohamg?tab=repositories)
+- 👨‍💻 All of my projects are available at [this page](https://github.com/1rohamg?tab=repositories)
 
 - 📫 How to reach me **rohamg30@gmail.com**
 
