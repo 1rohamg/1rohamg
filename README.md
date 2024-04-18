@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **i hate people from arak 🦝**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
